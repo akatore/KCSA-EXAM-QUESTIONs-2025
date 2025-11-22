@@ -112,6 +112,11 @@ Replace everything with:
 /* Optional custom CSS below */
 ```
 
+### **Step 4.1 - Add the Code**
+1. Open src/App.jsx (or App.tsx if you chose TypeScript).~
+2. Delete everything in that file.
+3. **Paste the entire code** into this file.
+
 ---
 
 # ▶️ 3. Run the App
